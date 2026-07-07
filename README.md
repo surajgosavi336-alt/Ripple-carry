@@ -30,7 +30,7 @@ This project implements a 4-Bit Ripple Carry Adder using Verilog HDL. The design
 
 - `design.v.txt` – Verilog module implementing the 4-Bit Ripple Carry Adder.
 - `testbench.v.txt` – Testbench for verifying different input combinations.
-- `waveform.png` – Simulation waveform of the Ripple Carry Adder.
+- `Waveform.png` – Simulation waveform of the Ripple Carry Adder.
 
 ---
 
@@ -56,7 +56,7 @@ The simulation successfully verified the operation of the 4-Bit Ripple Carry Add
 
 ### Ripple Carry Adder Waveform
 
-![Ripple Carry Adder Waveform](waveform.png)
+![Ripple Carry Adder Waveform](Waveform.png)
 
 ---
 
